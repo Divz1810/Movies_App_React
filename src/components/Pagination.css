@@ -1,0 +1,10 @@
+.clicked2>a{
+    background-color:rgb(3, 3, 31) !important;
+    color: white !important;
+    text-decoration: none;
+}
+
+
+.page-link{
+    color: rgb(3, 3, 31);
+}
